@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cybersecurity analyst**
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning ** Cybersecurity **
 
 - 💬 Ask me about **C and Network security**
 
