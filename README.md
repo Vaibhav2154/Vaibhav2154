@@ -31,4 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav2154&show_icons=true&locale=en&layout=compact" alt="vaibhav2154" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2154&" alt="vaibhav2154" /></p>
-
