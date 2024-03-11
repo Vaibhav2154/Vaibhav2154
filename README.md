@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Pentesting**
 
+  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1RI038iTgYycamZYtM8xx486w1v-XOCQP/view?usp=drive_link)
+
 - 💬 Ask me about **C and Network security**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
