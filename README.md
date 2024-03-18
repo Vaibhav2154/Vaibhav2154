@@ -38,7 +38,9 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
+<h3 align="left">GitHub Stats:</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&show_icons=true&locale=en" alt="Vaibhav2154" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav2154&show_icons=true&locale=en&layout=compact" alt="vaibhav2154" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2154&" alt="vaibhav2154" /></p>
