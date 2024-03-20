@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhavmn2154" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavmn2154?logo=twitter&style=for-the-badge" alt="vaibhavmn2154" /></a> </p>
 
-- 🔭 I’m currently working on a path to become a **Cybersecurity analyst**
+- 🔭 I’m currently working to become a **Security Engineer**
 
-- 🌱 I’m currently learning **Pentesting**
+- 🌱 I’m currently learning **Cybersecurity** from **Google Cybersecurity specialization** on **Coursera**
   
 -  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1RI038iTgYycamZYtM8xx486w1v-XOCQP/view?usp=drive_link)
 
