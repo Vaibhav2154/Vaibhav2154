@@ -14,7 +14,7 @@
   
 -  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1ZQzbEPhjIpTUpyqLWpHRukRL9SXMelF-/view?usp=sharing)
 
-- 💬 Ask me about **C language and Cybersecurity**
+- 💬 Ask me about **C++ and Cybersecurity**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
 
