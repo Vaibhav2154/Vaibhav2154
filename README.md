@@ -12,7 +12,7 @@
 
 - 🌱 I’ve completed **Cybersecurity** course from **Google Cybersecurity specialization** on **Coursera**
   
--  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1ek8IKiBLTkWrIKoQcG8bK5asvt08gZcu/view?usp=sharing)
+-  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kv8hrGBPbmATzH6L3J0pg7LNI03rqQE-/view?usp=sharing)
 
 - 💬 Ask me about **C language and Cybersecurity**
 
