@@ -1,8 +1,6 @@
 [![MasterHead](https://wpengine.com/wp-content/uploads/2019/10/shutterstock_2056165910.jpg.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vaibhav M N</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav2154&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav2154" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vaibhavmn2154" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavmn2154?logo=twitter&style=for-the-badge" alt="vaibhavmn2154" /></a> </p>
@@ -11,7 +9,7 @@
 
 - 🌱 I’ve completed **Cybersecurity** course from **Google Cybersecurity specialization** on **Coursera**
   
--  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1kv8hrGBPbmATzH6L3J0pg7LNI03rqQE-/view?usp=sharing)
+-  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1l-djL6Jqf3kNaR4T5p7fM9odlUGNp2wZ/view?usp=sharing)
 
 - 💬 Ask me about **C language and Cybersecurity**
 
