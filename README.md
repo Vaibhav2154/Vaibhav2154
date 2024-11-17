@@ -1,5 +1,5 @@
 [![MasterHead](https://wpengine.com/wp-content/uploads/2019/10/shutterstock_2056165910.jpg.webp)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Vaibhav M N</h1>
+<h1 align="center">Hello 👋, I'm Vaibhav M N</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav2154&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav2154" /> </p>
 
