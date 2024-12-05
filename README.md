@@ -42,8 +42,8 @@
   
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Vaibhav2154's GitHub Stats" />
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhhav2154&theme=highcontrast)](https://git.io/streak-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav2154&theme=dark&hide_border=true" alt="Vaibhav2154's GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
