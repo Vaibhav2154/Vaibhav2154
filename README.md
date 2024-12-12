@@ -13,7 +13,6 @@
 - 💬 Ask me about **C language and Cybersecurity**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
-
 # 💻 Tech Stack:
 ###
 
