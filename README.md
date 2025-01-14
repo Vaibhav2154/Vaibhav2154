@@ -8,7 +8,7 @@
 
 - 🌱 I’ve completed **Cybersecurity** course from **Google Cybersecurity specialization** on **Coursera**
   
--  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1jr5auOP1lkyRmXrv_ebyJ6j6ZRlcvj7m/view?usp=sharing)
+-  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1vjeYylPPHZo-aZxDKkKADQ3j5lEaIdCs/view?usp=sharing)
 - 💬 Ask me about **C language and Cybersecurity**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
