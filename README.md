@@ -41,8 +41,8 @@
   
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Vaibhav2154's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vaibhav2154's GitHub Stats" />
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
