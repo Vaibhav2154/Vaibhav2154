@@ -3,14 +3,13 @@
 
 <h1 align="center">Hello 👋, I'm Vaibhav M N</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav2154&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav2154" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning** 
+- 🔭 I’m currently working on **Flutter App Development** 
 
 - 🌱 I’ve completed **Cybersecurity** course from **Google Cybersecurity specialization** on **Coursera**
   
 -  📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1vjeYylPPHZo-aZxDKkKADQ3j5lEaIdCs/view?usp=sharing)
-- 💬 Ask me about **C language and Cybersecurity**
+- 💬 Ask me about ** Cybersecurity and Machine Learning**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
 # 💻 Tech Stack:
@@ -41,7 +40,7 @@
 </p>
   
 # 📊 GitHub Stats:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav2154&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav2154" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vaibhav2154's GitHub Stats" />
 <br>
 <br>
