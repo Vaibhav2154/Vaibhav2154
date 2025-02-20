@@ -39,6 +39,9 @@
 <a href="https://auth.geeksforgeeks.org/user/vaibhavvalhev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavvalhev" height="30" width="40" /></a>
 </p>
   
+## 📊 LeetCode Stats:
+![LeetCode Profile](https://leetcard.jacoblin.cool/Vaibhav2154?theme=dark&ext=heatmap)
+  
 # 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav2154&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav2154" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vaibhav2154's GitHub Stats" />
