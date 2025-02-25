@@ -42,9 +42,13 @@
 
   
 # 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav2154&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav2154" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vaibhav2154's GitHub Stats" />
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav2154&theme=radical&hide_border=true)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav2154&theme=radical)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav2154&theme=radical)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav2154&theme=radical&utcOffset=8)
+</p>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
