@@ -47,7 +47,7 @@
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav2154&theme=radical)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav2154&theme=radical)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav2154&theme=radical&utcOffset=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
 </p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
