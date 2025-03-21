@@ -57,5 +57,4 @@
 
 [![Vaibhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav2154&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <br>
