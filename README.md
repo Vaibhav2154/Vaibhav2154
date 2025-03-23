@@ -30,8 +30,6 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="85px" height="85px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
-
-  [![An image of @vaibhav2154's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav2154)](https://holopin.io/@vaibhav2154)
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
