@@ -1,6 +1,8 @@
 
-<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzOTIzNTYsIm5iZiI6MTczOTM5MjA1NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDIwMjczNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5Njk2NzA4Zjk1M2E3OTQ5OTBkY2JmNDM4ZmExNDhmZmQyMTU1MGFiMzM4ZjcxYWU0N2ExYWMzYzZjNjZmNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vvh-yOq2hS3Mj4c0961iCOIdZYgTr0eire6hV07LBWo" />
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h1 align="center">Hello 👋, I'm Vaibhav M N</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
@@ -22,6 +24,9 @@
 
 
 ## 🏅 Achivements :
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vaibhav2154&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
@@ -30,6 +35,8 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="85px" height="85px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+
+
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
