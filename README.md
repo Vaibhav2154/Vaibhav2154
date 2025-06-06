@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋, I'm Vaibhav M N</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Flutter App Development** 
+- 🔭 I’m currently working on **Flutter App Development**
 
 - 🌱 I’ve completed **Cybersecurity** course from **Google Cybersecurity specialization** on **Coursera**
   
