@@ -2,6 +2,8 @@
 
 
 
+
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" alt="Octodex Gif"/>
