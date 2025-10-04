@@ -19,40 +19,36 @@
 - 💬 Ask me about **Cybersecurity and Machine Learning**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
-# 💻 Tech Stack:
+# Tech Stack:
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Dart](https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-[![Flutter](https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)]()
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)]()
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-6E7FAA?style=for-the-badge)]()
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)]()
-[![LangChain](https://img.shields.io/badge/LangChain-008000?style=for-the-badge)]()
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)]()
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)]()
+### 🧠 Programming Languages  
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,dart,java,js,html,css,sass)](https://skillicons.dev)
+
+
+
+### ⚙️ Frameworks & Libraries  
+[![Frameworks](https://skillicons.dev/icons?i=flutter,react,next,tailwind,vite,threejs)](https://skillicons.dev)
+
+
+
+### 🧩 Backend & APIs  
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,postman)](https://skillicons.dev)
+
+
+
+### 🗄️ Databases  
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,supabase)](https://skillicons.dev)
+
+
+
+### ☁️ DevOps & Deployment  
+[![DevOps](https://skillicons.dev/icons?i=docker,netlify,vercel)](https://skillicons.dev)
+
+
+### 🤖 AI / ML & Data Tools  
+[![AI/ML](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,openai)](https://skillicons.dev)
+
+
 
 ---
 
