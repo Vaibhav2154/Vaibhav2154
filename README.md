@@ -81,8 +81,6 @@
   
 # 📊 GitHub Stats:
 
-![Vaibhav's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav2154&theme=radical&hide_border=true)
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2154&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav2154&theme=radical)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav2154&theme=radical)
@@ -96,3 +94,6 @@
 [![Vaibhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav2154&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhavmn?theme=dark&font=Rubik&ext=contest)
+
+
