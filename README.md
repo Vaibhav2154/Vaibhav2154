@@ -19,40 +19,60 @@
 - 💬 Ask me about **Cybersecurity and Machine Learning**
 
 - 📫 How to reach me **vaibhavvaibhu2005@gmail.com**
+
+
 # Tech Stack:
 
-### 🧠 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,dart,java,js,html,css,sass)](https://skillicons.dev)
+<div align="center">
+
+  <!-- First line: Languages & Frontend -->
+  <img align="center"
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,sass,dart,react,next,flutter,tailwind,vite,threejs,fastapi,flask,postman,mongodb,mysql,sqlite,postgres,redis,supabase,tensorflow,sklearn,pytorch,docker,netlify,vercel,linux,arch,git,neovim"
+    alt="Languages & Frontend"
+  />
+  
+
+</div>
+
+  
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav2154&theme=tokyonight&hide_border=true"
+  />
+
+  <p></p>
+
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav2154&theme=tokyonight"
+  />
+
+  <p></p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Vaibhav2154/github-stats-transparent/blob/output/generated/overview.svg" />
+      </td>
+      <td>
+        <img src="https://github.com/Vaibhav2154/github-stats-transparent/blob/output/generated/languages.svg" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Contribution Graph
+[![Vaibhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav2154&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-### ⚙️ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=flutter,react,next,tailwind,vite,threejs)](https://skillicons.dev)
+</p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhavmn?theme=nord&font=Rubik&ext=contest)
 
 
-
-### 🧩 Backend & APIs  
-[![Backend](https://skillicons.dev/icons?i=fastapi,flask,postman)](https://skillicons.dev)
-
-
-
-### 🗄️ Databases  
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,supabase)](https://skillicons.dev)
-
-
-
-### ☁️ DevOps & Deployment  
-[![DevOps](https://skillicons.dev/icons?i=docker,netlify,vercel)](https://skillicons.dev)
-
-
-### 🤖 AI / ML & Data Tools  
-[![AI/ML](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,openai)](https://skillicons.dev)
-
-
-
----
-
-# 🏅 Achivements
+<br>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vaibhav2154&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
@@ -66,36 +86,11 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="85px" height="85px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
 
-
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav m n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav m n" height="30" width="40" /></a>
 <a href="https://twitter.com/vaibhavmn2154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavmn2154" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vaibhav m n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav m n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhav2154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav2154" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaibhavmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav2154" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaibhavvalhev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavvalhev" height="30" width="40" /></a>
 </p>
-  
-
-  
-# 📊 GitHub Stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav2154&theme=radical)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav2154&theme=radical)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav2154&theme=radical&utcOffset=8)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Vaibhav2154's GitHub Stats" />
-
-</p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhavmn?theme=dark&font=Rubik&ext=contest)
-![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=vaibhavmn&theme=dark)
-# 📈 Contribution Graph
-
-[![Vaibhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav2154&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-
-
