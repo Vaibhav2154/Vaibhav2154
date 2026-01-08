@@ -4,8 +4,6 @@
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" alt="Octodex Gif"/>
 </div>
 
-
-
 <h1 align="center">Hello 👋, I'm Vaibhav M N</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
 
