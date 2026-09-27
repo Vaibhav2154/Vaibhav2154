@@ -51,17 +51,9 @@
       <td>
         <img src="https://github.com/Vaibhav2154/github-stats-transparent/blob/output/generated/overview.svg" />
       </td>
-      <td>
-        <img src="https://github.com/Vaibhav2154/github-stats-transparent/blob/output/generated/languages.svg" />
-      </td>
     </tr>
   </table>
 </div>
-
-### Contribution Graph
-[![Vaibhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav2154&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 </p>
 
@@ -70,23 +62,9 @@
 
 <br>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vaibhav2154&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="85px" height="85px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav m n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav m n" height="30" width="40" /></a>
 <a href="https://twitter.com/vaibhavmn2154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavmn2154" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaibhav m n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav m n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav2154" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaibhavvalhev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavvalhev" height="30" width="40" /></a>
 </p>
