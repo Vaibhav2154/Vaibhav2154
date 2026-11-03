@@ -1,3 +1,4 @@
+
 # Hey, I'm Vaibhav M N 👋
 
 <p align="center">
@@ -68,27 +69,42 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vaibhav2154/Vaibhav2154/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vaibhav2154/Vaibhav2154/output/github-snake-light.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Vaibhav2154/Vaibhav2154/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav2154&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav2154&theme=dark" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav2154&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaibhav2154&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav2154&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2154&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Vaibhav2154&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vaibhav2154&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
+
 
 ---
 
 ## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vaibhavmn?theme=nord&font=Rubik&ext=contest" alt="LeetCode Statistics"/>
+  <img src="https://leetcard.jacoblin.cool/vaibhavmn?theme=dark&font=Rubik&ext=contest" alt="LeetCode Statistics"/>
 </p>
 
 ---
@@ -102,7 +118,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_SLUG">
+  <a href="https://www.linkedin.com/in/vaibhav-m-n-a6b071282/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/vaibhavmn2154">
