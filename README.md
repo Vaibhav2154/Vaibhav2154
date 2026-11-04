@@ -1,5 +1,10 @@
 
-# Hey, I'm Vaibhav M N 👋
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+
+<h1 align="center">
+  Hey, I'm Vaibhav M N 👋
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=55ACB7&center=true&vCenter=true&width=600&lines=Software+Engineer;Cybersecurity+Engineer;AI%2FML+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -42,30 +47,13 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,dart" />
-</p>
-
-### Frontend & Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,tailwind,vite,flutter" />
-</p>
-
-### Backend & Databases
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,go" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,flutter" />
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mongodb,mysql,postgres,sqlite,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,arch,git,github,obsidian,neovim" />
 </p>
 
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### DevOps, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,arch,git,github,neovim,postman,vercel,netlify" />
-</p>
 
 ---
 
